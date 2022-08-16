@@ -12,6 +12,10 @@ It's a pure Ruby app.
 
 1. Clone the repo.
 
+  ```text
+  $ git clone https://github.com/zeeshan-amir/Ruby_app.git
+  ```
+
 2. Install gems.
 
   ```text
